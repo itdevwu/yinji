@@ -1,6 +1,14 @@
 [package]
 name = "yinji"
 version = "0.1.0"
+authors = ["Zhenglong WU (itdevwu) <opensource@itdevwu.com>"]
 edition = "2021"
+description = "A substantial, secure, and convenient way to write & preserve diaries."
+documentation = "https://docs.itdevwu.com/yinji"
+readme = "README.md"
+homepage = "https://docs.itdevwu.com/yinji"
+repository = "https://github.com/itdevwu/yinji/"
+license = "Apache-2.0"
+license-file = "LICENSE"
 
 [dependencies]
