@@ -13,9 +13,8 @@
    limitations under the License.
 */
 
-mod cli;
+/*!
+Mod cli inplements details about cli.
+*/
 
-fn main() {
-    cli::info::print_pkg_info();
-    cli::info::print_copyright_info();
-}
+pub mod info;

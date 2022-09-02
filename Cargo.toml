@@ -12,3 +12,4 @@ license = "Apache-2.0"
 license-file = "LICENSE"
 
 [dependencies]
+chrono = "0.4"
